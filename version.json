@@ -1,4 +1,4 @@
 {
-	"version": "1.2",
-	"changelog": "+Client Check, +Bug Fixes, +Multiple Instance Detection"
+	"version": "0.1",
+	"changelog": "+Client Check, +Bug Fixes, +Multiple Instance Detection, +Blacklist"
 }
