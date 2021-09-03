@@ -15,6 +15,11 @@
 			"name": "Birb",
 			"id": "usr_5e089956-4fd8-40d4-b92b-79347b691b4d",
 			"trustLevel" : 1
+		},
+		{
+			"name": "Parr",
+			"id": "usr_c50a60d2-fd9f-4fad-888e-5926bdfc6e13",
+			"trustLevel" : 1
 		}
 	]
 }
