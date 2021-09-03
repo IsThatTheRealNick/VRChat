@@ -4,7 +4,7 @@
 		{
 			"name": "Nick",
 			"id": "usr_48fcafbb-9f8a-4127-8fb5-5c6d83675b3e",
-			"trustLevel" : 2
+			"trustLevel" : -1
 		},
 		{
 			"name": "Kyle",
