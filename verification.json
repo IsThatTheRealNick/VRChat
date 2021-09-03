@@ -4,12 +4,12 @@
 		{
 			"name": "Nick",
 			"id": "usr_48fcafbb-9f8a-4127-8fb5-5c6d83675b3e",
-			"trustLevel" : "Dev"
+			"trustLevel" : "2"
 		},
 		{
 			"name": "Kyle",
 			"id": "usr_19477081-e501-4011-bea8-fa1fe73771cd",
-			"trustLevel" : "Trusted"
+			"trustLevel" : "1"
 		}
 	]
 }
